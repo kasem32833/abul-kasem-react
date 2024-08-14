@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "title": "Understanding React Hooks: A Comprehensive Guide",
+      "author": "Jane Doe",
+      "date": "2024-08-01",
+      "summary": "This blog post provides an in-depth explanation of React Hooks, including useState, useEffect, and custom hooks, with examples to help you understand how to use them in your projects.",
+      "url": "https://example.com/react-hooks-guide",
+      "thumbnail": "https://example.com/images/react-hooks-thumbnail.jpg"
+    },
+    {
+      "id": 2,
+      "title": "CSS Grid vs. Flexbox: When to Use Which?",
+      "author": "John Smith",
+      "date": "2024-07-25",
+      "summary": "A comparison of CSS Grid and Flexbox, exploring the strengths and weaknesses of each layout model. Learn when to choose Grid over Flexbox, or how to combine them for responsive design.",
+      "url": "https://example.com/css-grid-vs-flexbox",
+      "thumbnail": "https://example.com/images/css-grid-flexbox-thumbnail.jpg"
+    },
+    {
+      "id": 3,
+      "title": "10 JavaScript Performance Optimization Tips",
+      "author": "Alice Johnson",
+      "date": "2024-08-05",
+      "summary": "Discover ten essential tips for optimizing JavaScript performance in your web applications, including best practices for code splitting, lazy loading, and reducing memory leaks.",
+      "url": "https://example.com/javascript-performance-tips",
+      "thumbnail": "https://example.com/images/javascript-performance-thumbnail.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Building Progressive Web Apps (PWAs) from Scratch",
+      "author": "Michael Lee",
+      "date": "2024-08-10",
+      "summary": "Learn how to create Progressive Web Apps (PWAs) from scratch, including setting up service workers, caching strategies, and adding PWA features like offline support and push notifications.",
+      "url": "https://example.com/building-pwas",
+      "thumbnail": "https://example.com/images/pwas-thumbnail.jpg"
+    }
+
+  ]
+  
